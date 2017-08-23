@@ -1,6 +1,6 @@
 library(Rfacebook)
-app_id = "1644591858918498"
-app_secret = "4fa78abdbd9f5132dabdfce5c0ea51e7"
+app_id = "xxxxxxxxxxxxx"
+app_secret = "xxxxxxxxxxxxxxx"
 myauth <- fbOAuth(app_id = app_id, app_secret = app_secret)
 
 ## save(myauth, file = "/users/russpoush/documents/machinelearningr/machinelearning/facebook/FbAuth")
